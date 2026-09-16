@@ -1,0 +1,16 @@
+{
+  "include_page_breaks": true,
+  "metadata": {
+    "improve_mathpix": false
+  },
+  "conversion_formats": {
+    "latex.pdf": true,
+    "tex.zip": true
+  },
+  "conversion_options": {
+    "latex.pdf": {
+      "fontSize": "11pt",
+      "font": "Noto Serif"
+    }
+  }
+}

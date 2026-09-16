@@ -1,0 +1,22 @@
+{
+  "include_page_breaks": true,
+  "metadata": {
+    "improve_mathpix": false
+  },
+  "conversion_formats": {
+    "latex.pdf": true,
+    "pdf": true,
+    "tex.zip": true
+  },
+  "conversion_options": {
+    "latex.pdf": {
+      "fontSize": "10pt",
+      "font": "CMU Serif"
+    },
+    "pdf": {
+      "fontSize": 17,
+      "margin": 40,
+      "text_color": "black"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "include_page_breaks": true,
+  "include_hyperlinks": true,
+  "include_page_info": false,
+  "rm_spaces": true,
+  "rm_fonts": false,
+  "idiomatic_eqn_arrays": true,
+  "include_equation_tags": true,
+  "include_smiles": false,
+  "numbers_default_to_math": false,
+  "preserve_section_numbering": true,
+  "fullwidth_punctuation": false,
+  "alphabets_allowed": {
+    "ru": false,
+    "hi": false,
+    "zh": false,
+    "ja": false,
+    "ko": false,
+    "th": false,
+    "ta": false,
+    "te": false,
+    "gu": false,
+    "bn": false,
+    "vi": false
+  },
+  "metadata": {
+    "improve_mathpix": false
+  }
+}

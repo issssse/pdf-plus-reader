@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "improve_mathpix": false
+  },
+  "conversion_formats": {
+    "pdf": true
+  },
+  "conversion_options": {
+    "pdf": {
+      "fontSize": 14,
+      "margin": 40,
+      "text_color": "black"
+    }
+  }
+}
