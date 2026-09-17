@@ -1086,10 +1086,10 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
   </div>
   <aside id="infoPanel" class="info-panel" hidden>
     <h2>Om läsaren</h2>
-    <p>Det här är en fristående PDF++-läsare. Originalsidorna visas oförändrade, med ett osynligt textlager från Mathpix OCR ovanpå.</p>
-    <ul><li>Sök med förstoringsglaset eller Ctrl/Cmd+F.</li><li>Markera och kopiera text och formler.</li><li>Klicka på poster i dokumentets innehållsförteckning.</li><li>Sök strukturerat, exempelvis <code>tp kap 3 14ac</code> eller <code>svar tp kap 3 14</code>.</li><li>Använd OCR-knappen för att kontrollera textzoner och tvåsideknappen för bokuppslag.</li></ul>
-    <p>Text, formler, rubriker och länkar är maskinlästa. OCR kan vara fel, särskilt i formler, små tecken och slitna skanningar. Kontrollera alltid mot den synliga originalsidan.</p>
-    <p><a href="https://github.com/issssse/pdf-plus-reader" target="_blank" rel="noopener noreferrer">Källkod och verktyg för att bygga en egen PDF++-läsare</a>.</p>
+    <p>Det här är en fristående PDF-läsare. Originalsidorna visas oförändrade, med ett osynligt textlager från Mathpix OCR ovanpå.</p>
+    <ul><li>Sök med förstoringsglaset eller <strong>Ctrl/Cmd+F</strong>.</li><li>Markera och kopiera text och formler.</li><li>Navigera med den interaktiva innehållsförteckningen.</li><li>Använd avancerade sökningar, till exempel <strong>"kap 2 uppgift 5"</strong>.</li></ul>
+    <p>Text, formler, rubriker och länkar är maskinlästa. OCR-tolkningen kan innehålla fel, särskilt i formler, små tecken och slitna skanningar. Kontrollera därför alltid mot den synliga originalsidan.</p>
+    <p>Om du vill konvertera egna PDF-filer eller modifiera läsaren finns <a href="https://github.com/issssse/pdf-plus-reader" target="_blank" rel="noopener noreferrer">källkoden</a> öppet tillgänglig.</p>
   </aside>
   <main><div id="viewer" class="viewer" aria-label="Dokumentsidor"><div id="topSpacer" class="spacer"></div><div id="pageWindow"></div><div id="bottomSpacer" class="spacer"></div></div></main>
   <script id="reader-data" type="application/json">__READER_DATA__</script>

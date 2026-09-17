@@ -495,6 +495,10 @@ def test_reader_uses_native_scroll_selection_and_minimal_floating_controls(tmp_p
     assert 'id="searchUI" class="search-ui"' in index
     assert 'id="info" class="info-toggle"' in index
     assert 'id="infoPanel" class="info-panel"' in index
+    assert "Det här är en fristående PDF-läsare." in index
+    assert "Navigera med den interaktiva innehållsförteckningen." in index
+    assert '<strong>"kap 2 uppgift 5"</strong>' in index
+    assert '>källkoden</a> öppet tillgänglig.' in index
     assert "Text, formler, rubriker och länkar är maskinlästa" in index
     assert '<span class="ocr-icon" aria-hidden="true">OCR</span>' in index
     assert "event.key.toLowerCase()==='f'" in index
